@@ -1,2 +1,2 @@
-# 125
+# Happy Thirds!
 A game about coolness.
